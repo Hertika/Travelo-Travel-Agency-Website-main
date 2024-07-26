@@ -1,9 +1,5 @@
 # Travelo-Travel-Agency-Website-main
-Sure, here's the updated README file without the license and contact sections:
 
----
-
-# Travelling Agency Website
 
 ## Introduction
 A comprehensive travel agency website developed using HTML, CSS, and JavaScript. Users can search for cities, manage travel plans, and finalize bookings. The system includes user account management, a cart system, and a streamlined checkout process.
@@ -27,7 +23,7 @@ A comprehensive travel agency website developed using HTML, CSS, and JavaScript.
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/travelling-agency-website.git
-   cd travelling-agency-website
+   cd Travelo-Travel-Agency-Website-main
    ```
 
 2. Open `index.html` in your preferred web browser to view the website.
@@ -47,20 +43,16 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 1. Fork the repository.
 2. Create a new branch:
-   ```bash
+  bash
    git checkout -b feature/your-feature-name
-   ```
+  
 3. Make your changes.
 4. Commit your changes:
-   ```bash
+  bash
    git commit -m 'Add some feature'
-   ```
+   
 5. Push to the branch:
-   ```bash
+   bash
    git push origin feature/your-feature-name
-   ```
+  
 6. Open a pull request.
-
----
-
-Feel free to replace placeholders with your actual GitHub username and contact information.
